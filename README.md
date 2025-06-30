@@ -36,7 +36,7 @@
 ### 4. Temuan Kunci  
 - **Koridor tersibuk**: Cibubur - Balai Kota (393 trip/hari)  
 - **Jam puncak**: 07.00-08.00 (5,683 trip)  
-- **Gender**: 53.3% Laki-laki, 46.7% Perempuan  
+- **Gender**: 53.3% Perempuan , 46.7% Laki-laki
 
 ### 5. Rekomendasi  
 - Tambah armada di koridor sibuk  
